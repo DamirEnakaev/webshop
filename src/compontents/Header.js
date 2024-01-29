@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header>
         <div>
-            <span className='logo'>House staff</span>
+            <span className='logo'>Deotone</span>
             <ul className = 'nav'>
                 <li>About us</li>
                 <li>Contacts</li>
